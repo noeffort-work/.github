@@ -1,3 +1,3 @@
-## 👋 Hello, visitor!
+## Hello, visitor! 👋
 
-No Effort here
+NoEffort here
