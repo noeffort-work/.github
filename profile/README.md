@@ -1,3 +1,3 @@
 ## Hello, visitor! 👋
 
-NoEffort here
+[NoEffort](https://noeffort.work/) here
